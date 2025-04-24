@@ -8,6 +8,6 @@ int main(){
 		printf("%c",*ptr);
 		ptr++;
 		i++;
-	}
+	} printf("payel");
 		return 0;
 }
